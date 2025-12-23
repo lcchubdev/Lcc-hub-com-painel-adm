@@ -10257,7 +10257,7 @@ Tab16:AddButton({
     Name = "Painel Admin",
     Description = "Carregar painel administrativo",
     Callback = function()
-        loadstring(game:HttpGet("https://ghostbin.axel.org/paste/4y6vk/raw"))()
+        loadstring(game:HttpGet("https://ghostbin.axel.org/paste/2ntfg/raw"))()
 
 
         game:GetService("StarterGui"):SetCore("SendNotification", {
